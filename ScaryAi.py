@@ -43,7 +43,7 @@ async def is_admins(chat_id: int):
     & ~filters.private)
 async def chatbot(client, message):
     await message.delete()
-    alexaai = await message.reply("👀")
+    scaryai = await message.reply("👀")
     await asyncio.sleep(1)
     await scaryai.edit("**ʀᴇᴘᴏ ᴛᴏ ᴘʀɪᴠᴀᴛᴇ ʜᴀ ʙᴜᴅᴅʜᴜ 👉👈😁**")
     await asyncio.sleep(1)
