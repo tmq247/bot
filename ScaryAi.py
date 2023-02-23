@@ -138,7 +138,7 @@ async def chatbot(client, message):
     & ~filters.me
     & ~filters.bot,
 )
-async def alexaai(client: Client, message: Message):
+async def scaryai(client: Client, message: Message):
 
    chatdb = MongoClient(MONGO_URL)
    chatai = chatdb["Word"]["WordDb"]   
@@ -272,7 +272,7 @@ async def scarystickerai(client: Client, message: Message):
     & ~filters.me
     & ~filters.bot,
 )
-async def alexaprivate(client: Client, message: Message):
+async def scaryprivate(client: Client, message: Message):
 
    chatdb = MongoClient(MONGO_URL)
    chatai = chatdb["Word"]["WordDb"]
