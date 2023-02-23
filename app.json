@@ -1,0 +1,34 @@
+{
+  "name": "MissCutie-Bot",
+  "description": "Advanced Database Backend Chatbot Based On Pyrogram Userbot",
+  "logo": "https://te.legra.ph/file/a52d27c0fff348158a96e.jpg",
+  "keywords": [
+    "telegram",
+    "bot",
+    "python",
+    "pyrogram"
+  ],
+    "env": {
+        "SESSION_NAME": {
+            "description": "Pyrogram string session get it from @Session_Generator_Robot",
+            "required": true
+        },        
+        "MONGO_URL": {
+            "description": "mongo db url here",
+            "required": true
+        },
+        "API_ID": {
+            "description": "telegram api id here",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "telegram api hash here",
+            "required": true
+        }
+    },
+    "addons": [
+        {
+            "plan": "heroku-postgresql"
+        }
+    ]
+}
