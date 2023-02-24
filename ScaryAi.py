@@ -66,7 +66,7 @@ async def chatbot(client, message):
 ┣× sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☞ [ʜᴇʀᴇ](https://github.com/TheTeamScary/MissCutie-Bot)
 ┣× ᴄʀᴇᴀᴛᴏʀ ☞ [Mʀ.Mᴀʜᴇsʜᴡᴀʀɪ](https://t.me/NomoreLakshya)
 ┗━━━━━━━━━━━━━━━━━┛
-🥀  ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴ ᴛʜᴇɴ ɢᴏ ᴛᴏ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [SᴄᴀʀʏHᴇʟᴘ](https://t.me/scaryhelp)**""",
+🥀  ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴ ᴛʜᴇɴ ɢᴏ ᴛᴏ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [Hᴇʟᴘ](https://t.me/chat_ixz)**""",
     ) 
 
 
