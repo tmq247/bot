@@ -5,11 +5,11 @@
 <p align="center"><a href="https:/t.me/SayJust"><img src="https://te.legra.ph/file/a52d27c0fff348158a96e.jpg" width="400"></a></p>
 
 <p align="center">
-    <a href="https://app.codacy.com/manual/TheTeamScary/ScaryBot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/TheTeamScary/ScaryBot"> <img src="https://img.shields.io/github/repo-size/TheTeamScary/ScaryBot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/TheTeamScary/ScaryBot/commits/prince"> <img src="https://img.shields.io/github/last-commit/TheTeamScary/ScaryBot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/TheTeamScary/ScaryBot/issues"> <img src="https://img.shields.io/github/issues/TheTeamScary/ScaryBot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/TheTeamScary/ScaryBot/network/members"> <img src="https://img.shields.io/github/forks/TheTeamScary/ScaryBot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://app.codacy.com/manual/TheTeamScary/Ai-UserBot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/TheTeamScary/Ai-UserBot"> <img src="https://img.shields.io/github/repo-size/TheTeamScary/Ai-UserBot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/TheTeamScary/Ai-UserBot/commits/prince"> <img src="https://img.shields.io/github/last-commit/TheTeamScary/Ai-UserBot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/TheTeamScary/Ai-UserBot/issues"> <img src="https://img.shields.io/github/issues/TheTeamScary/Ai-UserBot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/TheTeamScary/Ai-UserBot/network/members"> <img src="https://img.shields.io/github/forks/TheTeamScary/Ai-UserBot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
