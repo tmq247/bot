@@ -1,8 +1,8 @@
-<h1 align="center"><b> MiSS CuTiE BoT </b></h1>
+<h1 align="center"><b> ᴍɪss ᴄᴜᴛɪᴇ ʙᴏᴛ </b></h1>
 
 <h4 align="center">A Telegram Userbot For AI Machine System To Increase Your Chat Ranking <br> ... Written With Python, Pyrogram And Mongodb Backend Database...</h4>
 
-<p align="center"><a href="https:/t.me/NomorePreeti"><img src="https://te.legra.ph/file/a52d27c0fff348158a96e.jpg" width="400"></a></p>
+<p align="center"><a href="https:/t.me/SayJust"><img src="https://te.legra.ph/file/a52d27c0fff348158a96e.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://app.codacy.com/manual/TheTeamScary/ScaryBot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
@@ -17,9 +17,9 @@
 
 ### About-Cutie
 
-<a href="https://youtube.com/@caringlover"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a> 
+<a href="https://youtube.com/@LakshyaisLive"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a> 
 
-<a href="https://t.me/NomorePreeti"><img src="https://img.shields.io/badge/Owner's%20Official-green.svg?logo=telegram"></a>
+<a href="https://t.me/SayJust"><img src="https://img.shields.io/badge/Owner's%20Official-green.svg?logo=telegram"></a>
 
 ## Requirment.
 - Api ID
@@ -51,7 +51,7 @@
 
 ## 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐂𝐫𝐞𝐝𝐢𝐭
 
-- [𝗟 么 𝗞 𝗦 𝗛 𝗬 么](https://t.me/NomoreLakshya)
+- [𓆩𝙇«𝘼«𝙆»𝙎»𝙃𓆪](https://t.me/SayJust)
 
 
 </details>
@@ -65,7 +65,7 @@
 # Support
 <a href="https://t.me/Chat_ixz"><img src="https://img.shields.io/badge/Join-Telegram%20Group-green.svg?logo=Telegram"></a>
 <a href="https://t.me/ScaryNetwork"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-green.svg?logo=telegram"></a>
-<a href="https://t.me/NomorePreeti"><img src="https://img.shields.io/badge/Owner's%20Official-green.svg?logo=telegram"></a>
+<a href="https://t.me/SayJust"><img src="https://img.shields.io/badge/Owner's%20Official-green.svg?logo=telegram"></a>
 
 
 </details>
