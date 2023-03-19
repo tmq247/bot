@@ -53,18 +53,18 @@ async def chatbot(client, message):
     umm = await message.reply_sticker("CAACAgEAAxkBAAICOGPkoH1fKzKpaISh7XgNeisx3UVVAAK1AwACKWtwRmr9H9xzpEZDLgQ")
     await asyncio.sleep(2)
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/861af4bf86acce53e0544.jpg",
+        photo=f"https://te.legra.ph/file/9026db38f6f7fa66c32c9.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━
-🥀 ᴀ ᴘᴏᴡᴇʀғᴜʟʟ ᴀɪ ʙᴏᴛ ᴏғ [Pʀᴇᴇᴛɪ](https://t.me/NomorePreeti) 🌺🌟
+🥀 ᴀ ᴘᴏᴡᴇʀғᴜʟʟ ᴀɪ ʙᴏᴛ ᴏғ [Lᴀᴋsʜʏᴀ](https://t.me/SayJust) 🌺🌟
 ━━━━━━━━━━━━━━━━━━━
 ᴅᴀᴛᴀʙᴀsᴇ ʙᴀᴄᴋᴇɴᴅ ʙᴏᴛ ғᴏʀ ᴛɢ..
 ┏━━━━━━━━━━━━━━━━━┓
-┣× ᴏᴡɴᴇʀ ☞ [Mʀs.Mᴀʜᴇsʜᴡᴀʀɪ](https://t.me/NomorePreeti)
-┣× sᴜʙsᴄʀɪʙᴇ ᴏɴ ☞ [ʏᴏᴜᴛᴜʙᴇ](https://youtube.com/@caringlover)
+┣× ᴏᴡɴᴇʀ ☞ [Sᴏᴏɴ](https://t.me/Toxic_ixi)
+┣× sᴜʙsᴄʀɪʙᴇ ᴏɴ ☞ [ʏᴏᴜᴛᴜʙᴇ](https://youtube.com/@LakshyaisLive)
 ┣× sᴜᴘᴘᴏʀᴛ ☞ [sᴜᴘᴘᴏʀᴛ](https://t.me/ScaryNetwork)
 ┣× ᴜᴘᴅᴀᴛᴇs ☞ [ᴜᴘᴅᴀᴛᴇs](https://t.me/ScaryServer)
-┣× sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☞ [ʜᴇʀᴇ](https://github.com/TheTeamScary/MissCutie-Bot)
-┣× ᴄʀᴇᴀᴛᴏʀ ☞ [Mʀ.Mᴀʜᴇsʜᴡᴀʀɪ](https://t.me/NomoreLakshya)
+┣× sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☞ [ʜᴇʀᴇ](https://github.com/TheTeamScary/Ai-UserBot)
+┣× ᴄʀᴇᴀᴛᴏʀ ☞ [Nᴏᴏʙ](https://t.me/NomoreLakshya)
 ┗━━━━━━━━━━━━━━━━━┛
 🥀  ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴ ᴛʜᴇɴ ɢᴏ ᴛᴏ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [Hᴇʟᴘ](https://t.me/chat_ixz)**""",
     ) 
