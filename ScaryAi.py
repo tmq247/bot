@@ -45,9 +45,9 @@ async def chatbot(client, message):
     await message.delete()
     scaryai = await message.reply("👀")
     await asyncio.sleep(1)
-    await scaryai.edit("**ʀᴇᴘᴏ ᴛᴏ ᴘʀɪᴠᴀᴛᴇ ʜᴀ ʙᴜᴅᴅʜᴜ 👉👈😁**")
+    await scaryai.edit("**Repo ở chế độ riêng tư 👉👈😁**")
     await asyncio.sleep(1)
-    await scaryai.edit("**ᴄʜᴀʟᴏ ᴀʙ ᴋɪssɪ ᴅᴏ 🙈🥰**")
+    await scaryai.edit("**Thôi nào 🙈🥰**")
     await scaryai.delete()
     await asyncio.sleep(2)
     umm = await message.reply_sticker("CAACAgEAAxkBAAICOGPkoH1fKzKpaISh7XgNeisx3UVVAAK1AwACKWtwRmr9H9xzpEZDLgQ")
@@ -55,18 +55,18 @@ async def chatbot(client, message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/9026db38f6f7fa66c32c9.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━
-🥀 ᴀ ᴘᴏᴡᴇʀғᴜʟʟ ᴀɪ ʙᴏᴛ ᴏғ [Lᴀᴋsʜʏᴀ](https://t.me/SayJust) 🌺🌟
+🥀 ᴀ ᴘᴏᴡᴇʀғᴜʟʟ ᴀɪ ʙᴏᴛ ᴏғ [Lᴀᴋsʜʏᴀ](https://t.me/coihaycoc) 🌺🌟
 ━━━━━━━━━━━━━━━━━━━
 ᴅᴀᴛᴀʙᴀsᴇ ʙᴀᴄᴋᴇɴᴅ ʙᴏᴛ ғᴏʀ ᴛɢ..
 ┏━━━━━━━━━━━━━━━━━┓
-┣× ᴏᴡɴᴇʀ ☞ [Sᴏᴏɴ](https://t.me/Toxic_ixi)
-┣× sᴜʙsᴄʀɪʙᴇ ᴏɴ ☞ [ʏᴏᴜᴛᴜʙᴇ](https://youtube.com/@LakshyaisLive)
-┣× sᴜᴘᴘᴏʀᴛ ☞ [sᴜᴘᴘᴏʀᴛ](https://t.me/ScaryNetwork)
-┣× ᴜᴘᴅᴀᴛᴇs ☞ [ᴜᴘᴅᴀᴛᴇs](https://t.me/ScaryServer)
-┣× sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☞ [ʜᴇʀᴇ](https://github.com/TheTeamScary/Ai-UserBot)
-┣× ᴄʀᴇᴀᴛᴏʀ ☞ [Nᴏᴏʙ](https://t.me/NomoreLakshya)
+┣× ᴏᴡɴᴇʀ ☞ [Sᴏᴏɴ](https://t.me/coihaycoc)
+┣× sᴜʙsᴄʀɪʙᴇ ᴏɴ ☞ [ʏᴏᴜᴛᴜʙᴇ](https://youtube.com)
+┣× sᴜᴘᴘᴏʀᴛ ☞ [sᴜᴘᴘᴏʀᴛ](https://t.me/dong_di)
+┣× ᴜᴘᴅᴀᴛᴇs ☞ [ᴜᴘᴅᴀᴛᴇs](https://t.me/dong_di)
+┣× sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☞ [ʜᴇʀᴇ](https://github.com)
+┣× ᴄʀᴇᴀᴛᴏʀ ☞ [Nᴏᴏʙ](https://t.me/nguhanh69)
 ┗━━━━━━━━━━━━━━━━━┛
-🥀  ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴ ᴛʜᴇɴ ɢᴏ ᴛᴏ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [Hᴇʟᴘ](https://t.me/chat_ixz)**""",
+🥀  Nếu bạn có bất kỳ câu hỏi nào thì hãy đến nhóm hỗ trợ [Hᴇʟᴘ](https://t.me/dong_di)**""",
     ) 
 
 
@@ -74,7 +74,7 @@ async def chatbot(client, message):
     filters.command("alive", prefixes=["/", ".", "?", "-"])
     & ~filters.private)
 async def start(client, message):
-    await message.reply_text(f"**ᴄᴜᴛɪᴇ ᴜsᴇʀʙᴏᴛ ɪs ʀᴇᴀᴅʏ ғᴏʀ ᴄʜᴀᴛᴛɪɴɢ**")
+    await message.reply_text(f"**Userbot Muội Muội đã sẵn sàng để trò chuyện**")
 
 @client.on_message(
     filters.command("chatbot off", prefixes=["/", ".", "?", "-"])
@@ -94,9 +94,9 @@ async def chatbotofd(client, message):
     is_scary = scary.find_one({"chat_id": message.chat.id})
     if not is_scary:
         scary.insert_one({"chat_id": message.chat.id})
-        await message.reply_text(f"**ᴄʜᴀᴛʙɪᴛ ɪs ᴅɪsᴀʙʟᴇᴅ ʙʏ {message.from_user.mention()} ғᴏʀ ᴜsᴇʀs ɪɴ {message.chat.title}**")
+        await message.reply_text(f"**Chatbot bị vô hiệu hóa bởi {message.from_user.mention()} cho người dùng ở {message.chat.title}**")
     if is_scary:
-        await message.reply_text(f"**ᴄʜᴀᴛʙɪᴛ ɪs ᴀʟʀᴇᴀᴅʏ ᴅɪsᴀʙʟᴇᴅ**")
+        await message.reply_text(f"**Chatbot đã bị vô hiệu hóa**")
     
 
 @client.on_message(
@@ -116,7 +116,7 @@ async def chatboton(client, message):
             )
     is_scary = scary.find_one({"chat_id": message.chat.id})
     if not is_scary:           
-        await message.reply_text(f"**ᴄʜᴀᴛʙɪᴛ ɪs ᴀʟʀᴇᴀᴅʏ ᴇɴᴀʙʟᴇᴅ**")
+        await message.reply_text(f"**Chatbot đã được kích hoạt**")
     if is_scary:
         scary.delete_one({"chat_id": message.chat.id})
         await message.reply_text(f"**ᴄʜᴀᴛʙɪᴛ ɪs ᴇɴᴀʙʟᴇᴅ ʙʏ {message.from_user.mention()} ғᴏʀ ᴜsᴇʀs ɪɴ {message.chat.title}**")
@@ -126,7 +126,7 @@ async def chatboton(client, message):
     filters.command("chatbot", prefixes=["/", ".", "?", "-"])
     & ~filters.private)
 async def chatbot(client, message):
-    await message.reply_text(f"**ᴜsᴇᴀɢᴇ:**\n/chatbot [on|off] ᴏɴʟʏ ɢʀᴏᴜᴘ**")
+    await message.reply_text(f"**Cách dùng:**\n/chatbot [on|off] trên nhóm**")
 
     
 @client.on_message(
