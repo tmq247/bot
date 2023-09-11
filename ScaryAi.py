@@ -23,7 +23,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", ""))
+API_ID = int(getenv("API_ID", "13958802"))
 API_HASH = getenv("API_HASH")
 SESSION_NAME = getenv("SESSION_NAME", None)
 MONGO_URL = getenv("MONGO_URL", None)
